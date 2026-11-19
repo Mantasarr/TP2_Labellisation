@@ -1,0 +1,12 @@
+path: /workspaces/TP2_Labellisation/TP2_Mame_Anta_SARR&&Favour_Tabitha_Gaglozou_YOLO/dataset_fruits
+train: images/train
+val: images/val
+test: images/test
+
+nc: 4
+
+names:
+  0: pomme_verte
+  1: pomme_rouge
+  2: orange
+  3: banane
